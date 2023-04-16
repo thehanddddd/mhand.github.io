@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body ul li {
+    font-size: 18px;
+    ;
+    color: #003F5D;
+    font-family: Arial, "Arial Black", "Arial Bold Italic", "Arial Bold", "Arial Narrow";
+    list-style-type: square;
+}
+li {
+    list-style-position: outside;
+    list-style-type: circle;
+}
